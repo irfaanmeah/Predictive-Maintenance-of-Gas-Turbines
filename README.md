@@ -15,4 +15,4 @@ A simple Random forest model to check the baseline accuracy of the model
 
 A flag which indicates the failure of the turbine within 40 days
 
-### Note - The jupyter notebook contains the notes on analysis and results
+#### Note - The jupyter notebook contains the notes on analysis and results
